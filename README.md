@@ -21,7 +21,5 @@ Potential Use Cases
 Small business owners tracking operational and sales performance.
 Data analysts exploring interactive dashboard design.
 Marketing teams designing campaigns based on customer insights.
-Repository Contents
-New project pizza.pbix: The Power BI dashboard file.
-(Optional) Add supporting files like datasets or documentation here.
+
 
